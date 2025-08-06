@@ -1,0 +1,10 @@
+alluminium
+cardboard
+glass
+paper
+plastic
+diaper
+organic_waste
+pizza_box
+styrofoam
+tissue
